@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tientasekou99-cloud.github.io/Agroplusbusiness-gmail.com-/sitemap.xml
